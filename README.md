@@ -43,3 +43,8 @@ An example call is below:
         ZMQ.Socket socket = context.socket(ZMQ.REP);
         socket.bind("tcp://*:5555");
         System.out.println("Connected to Socket- tcp://*:5555, Microservice Running!");
+        
+        
+  ## UML Diagram 
+  
+  
